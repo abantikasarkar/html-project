@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: grey;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+    padding: 2px;
+}
+#logo{
+    position: absolute;
+    width: 79.82px;
+    height: 35.49px;
+    left: 18.23px;
+    top: 6px;
+    background: #E5E5E5;
+
+}
+#logo2{
+    position: relative;
+    right: 50 px;
+}
+.Home{
+    position: relative;
+    margin: 10px;
+}
+.vert{
+    position: relative;
+    margin: 10px;
+}
+.dropdown{
+    position: absolute;
+    width: 41.9px;
+    height: 41.49px;
+    left: 95vw;
+    top: 4px;
+    margin-right: 10px;
+    
+    background: #E5E5E5;
+    border-radius: 20.7439px;
+}
+.Welcome{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* justify-content: center; */
+}
+.card{
+    position: relative;
+    left: 30px;
+    margin-top: 3px;
+    margin-left: 2px;
+    border-width: 3px;
+}
+.card2{
+    background-color: rgb(231, 231, 231);
+    position: relative;
+    left: 40px;
+    margin-top: 3px;
+    margin-left: 2px;
+    border-width: 4px;
+}
+.Options{
+    margin-top: 42px;
+}
+.Tab{
+    margin-top: 40px;
+}
